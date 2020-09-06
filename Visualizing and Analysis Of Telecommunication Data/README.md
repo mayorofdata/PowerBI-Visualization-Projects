@@ -1,0 +1,2 @@
+# Visualizing and Analysis Of Telecommunication Data
+Using PowerBI, I visualize and analyse the Telecommunication dataset to gain insight into customer attrition and make business decisions. I created few visuals to understand why customers are churning the comapny. Using Key Influencer visual, I was able to gain insight into the key attributes that makes customers churn the comapny and also the combined attributes impact on customer attrition using Top segment of the Key Influencer visual.
