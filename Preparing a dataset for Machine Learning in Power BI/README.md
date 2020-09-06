@@ -11,7 +11,5 @@ Dataset on UCI: https://archive.ics.uci.edu/ml/datase...)
 Dataset on Kaggle: https://www.kaggle.com/uciml/breast-c...
 
 Credits: 
-UCI Machine Learning Repository
-
-London Business Analytics Group
+UCI Machine Learning Repository and London Business Analytics Group
 
