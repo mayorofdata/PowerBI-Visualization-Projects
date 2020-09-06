@@ -6,12 +6,12 @@ We explore a famous machine learning dataset, the Breast Cancer Wisconsin (Diagn
 ![Image of box](https://github.com/mayorofdata/PowerBI-Visualization-Projects/blob/master/Preparing%20a%20dataset%20for%20Machine%20Learning%20in%20Power%20BI/box_plot.PNG)
 
 
-Links 
-The datasets and course materials are in at https://bit.ly/33zWQtp  in the Wisconsin folder
 Dataset on UCI: https://archive.ics.uci.edu/ml/datase...)
+
 Dataset on Kaggle: https://www.kaggle.com/uciml/breast-c...
 
 Credits: 
 UCI Machine Learning Repository
+
 London Business Analytics Group
 
