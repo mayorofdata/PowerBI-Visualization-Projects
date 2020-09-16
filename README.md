@@ -1,6 +1,6 @@
 # PowerBI Visualization Projects
 ## Background
-In this repository, we go over some of the visualizations I've created personally and by participating in London Business Analytics Group Projects sing PowerBI. 
+In this repository, we go over some of the visualizations I've created personally and by participating in London Business Analytics Group Projects using PowerBI. 
 
 ## Examples
 Below are some of the project previews. Click on the links to view the full description of the each project
